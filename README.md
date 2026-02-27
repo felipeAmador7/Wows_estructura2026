@@ -3,7 +3,7 @@
 
 [Doc Estructura (1).md](https://github.com/user-attachments/files/25606845/Doc.Estructura.1.md)
 
-
+![Logo Universidad](sergio.png)
 
 # **TALLER 1 \- Array and Linked list**
 
