@@ -226,19 +226,19 @@ Para probar el funcionamiento del ArrayList y del LinkedList se hicieron diferen
   Aquí se probaron inserciones, elminicación y la búsqueda de un elemento al final y en posiciones específicas
 
 El resultado obtenido es:  
-![][image2]
+![PruebaArray](PruebaArray.png)
 
 También se probó obtener un elemento fuera de rango:
 
-![][image3]
+![ErrorArray](ErrorArray.png)
 
 * Pruebas en LinkedList  
     
   También se probó inserción, eliminación, búsqueda y error  
     
-  ![][image4]  
+![PruebaLinked](PruebaLinked.png)
     
-  ![][image5]  
+ ![ErrorLinked](ErrorLinked.png)
   
 
 
@@ -262,9 +262,9 @@ Un ArrayList es más útil al momento de querer acceder a un dato en específico
 
 Un LinkedList sirve más para modificar constantemente los datos de una lista, por ejemplo una fila de reproducción.
 
-[image1]: 
 
-[image2]: 
+
+
 
 [image3]: 
 
