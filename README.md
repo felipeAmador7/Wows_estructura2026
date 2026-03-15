@@ -5,7 +5,7 @@
 
 
 
-# **![][image1]**
+# **![Logo universidad](sergio.png)**
 
 # **IMPLEMENTACIÓN DE STACK, QUEUE Y CIRCULAR LINKED LIST**
 
