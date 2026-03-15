@@ -5,7 +5,7 @@
 
 
 
-# **![][image1]**
+# **![][sergio.png]**
 
 # **IMPLEMENTACIÓN DE STACK, QUEUE Y CIRCULAR LINKED LIST**
 
